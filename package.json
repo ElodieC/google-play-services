@@ -1,0 +1,19 @@
+{
+  "name": "google-play-services",
+  "version": "26.0.0",
+  "description": "Google Play Services for Android (fork to add package.json)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElodieC/google-play-services.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElodieC/google-play-services/issues"
+  },
+  "homepage": "https://github.com/ElodieC/google-play-services#readme"
+}
